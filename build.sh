@@ -2,7 +2,7 @@
 built=false
 
 if [ $1 == "chrome" ] || [ $1 == "all" ]; then
-  echo "Building XKit for Chrome"
+  echo "Building AKit for Chrome"
   rm -rf build/chrome
   mkdir -p build/chrome
   cp Chrome/* build/chrome/
@@ -11,7 +11,7 @@ if [ $1 == "chrome" ] || [ $1 == "all" ]; then
   built=true
 fi
 if [ $1 == "safari" ] || [ $1 == "all" ]; then 
-  echo "Building XKit for Safari"
+  echo "Building AKit for Safari"
   rm -rf build/XKit.safariextension
   mkdir -p build/XKit.safariextension
   cp Safari/* build/XKit.safariextension/
