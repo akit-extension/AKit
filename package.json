@@ -1,6 +1,6 @@
 {
-  "name": "XKit",
-  "description": "The extension framework for Tumblr.",
+  "name": "AKit",
+  "description": "A remake of XKit, the extension framework for Tumblr.",
   "version": "1.3.2",
   "main": "xkit.js",
   "repository": {
