@@ -2,7 +2,7 @@
   "name": "AKit",
   "description": "A remake of XKit, the extension framework for Tumblr.",
   "version": "1.3.2",
-  "main": "xkit.js",
+  "main": "akit.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/atesh/XKit.git"
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/atesh/XKit/issues"
   },
-  "homepage": "http://www.xkit.info/seven/",
+  "homepage": "https://github.com/akit-extension/AKit",
   "engines": {
     "node": ">= 0.10.0"
   },

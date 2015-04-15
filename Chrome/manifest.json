@@ -1,13 +1,13 @@
 {
    "content_scripts": [ {
       "all_frames": true,
-      "css": [ "xkit.css" ],
+      "css": [ "akit.css" ],
       "exclude_matches": [ "https://www.tumblr.com/upload/image*, http://www.tumblr.com/upload/image*" ],
-      "js": [ "bridge.js", "jquery.js", "tiptip.js", "moment.js", "nano.js", "xkit.js" ],
+      "js": [ "bridge.js", "jquery.js", "tiptip.js", "moment.js", "nano.js", "akit.js" ],
       "matches": [ "http://www.tumblr.com/*", "https://www.tumblr.com/*" ]
    } ],
    "description": "The extension framework for Tumblr.",
-   "homepage_url": "http://www.xkit.info/seven/",
+   "homepage_url": "https://github.com/akit-extension/AKit",
    "icons": {
       "128": "icon.png",
       "16": "icon.png",
