@@ -6,4 +6,4 @@ AKit
 To develop extensions for AKit, check out the [XKit Wiki](https://github.com/atesh/XKit/wiki).
 
 #### Get it
-You can go to the [official download page](http://www.xkit.info/download) to get it for Safari, Chrome, Firefox and Opera.
+You can go to the [official download page](http://www.xkit.info/download) to get it for Chrome.
